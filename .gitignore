@@ -1,0 +1,13 @@
+vendor
+
+diff_def.go
+
+*.swp
+*.swo
+.vscode
+
+# truffle build directory
+build/
+
+# Dependency directory
+dist/
